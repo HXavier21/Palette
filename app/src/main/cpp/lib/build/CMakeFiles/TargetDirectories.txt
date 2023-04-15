@@ -1,0 +1,3 @@
+/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build/CMakeFiles/monet.dir
+/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build/CMakeFiles/edit_cache.dir
+/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build/CMakeFiles/rebuild_cache.dir

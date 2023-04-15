@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp -Werror -fPIC -std=gnu++17 -o CMakeFiles/monet.dir/cpp/blend/blend.cc.o -c /home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/blend/blend.cc",
+  "file": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/blend/blend.cc"
+},
+{
+  "directory": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp -Werror -fPIC -std=gnu++17 -o CMakeFiles/monet.dir/cpp/cam/cam.cc.o -c /home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/cam/cam.cc",
+  "file": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/cam/cam.cc"
+},
+{
+  "directory": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp -Werror -fPIC -std=gnu++17 -o CMakeFiles/monet.dir/cpp/cam/hct.cc.o -c /home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/cam/hct.cc",
+  "file": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/cam/hct.cc"
+},
+{
+  "directory": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp -Werror -fPIC -std=gnu++17 -o CMakeFiles/monet.dir/cpp/cam/hct_solver.cc.o -c /home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/cam/hct_solver.cc",
+  "file": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/cam/hct_solver.cc"
+},
+{
+  "directory": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp -Werror -fPIC -std=gnu++17 -o CMakeFiles/monet.dir/cpp/cam/viewing_conditions.cc.o -c /home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/cam/viewing_conditions.cc",
+  "file": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/cam/viewing_conditions.cc"
+},
+{
+  "directory": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp -Werror -fPIC -std=gnu++17 -o CMakeFiles/monet.dir/cpp/palettes/core.cc.o -c /home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/palettes/core.cc",
+  "file": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/palettes/core.cc"
+},
+{
+  "directory": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp -Werror -fPIC -std=gnu++17 -o CMakeFiles/monet.dir/cpp/palettes/tones.cc.o -c /home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/palettes/tones.cc",
+  "file": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/palettes/tones.cc"
+},
+{
+  "directory": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp -Werror -fPIC -std=gnu++17 -o CMakeFiles/monet.dir/cpp/scheme/scheme.cc.o -c /home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/scheme/scheme.cc",
+  "file": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/scheme/scheme.cc"
+},
+{
+  "directory": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp -Werror -fPIC -std=gnu++17 -o CMakeFiles/monet.dir/cpp/utils/utils.cc.o -c /home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/utils/utils.cc",
+  "file": "/home/xavier/Desktop/UniqueAndroidStayingUp2023Spring/Task3/lib/cpp/utils/utils.cc"
+}
+]
